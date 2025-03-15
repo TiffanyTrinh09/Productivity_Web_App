@@ -1,0 +1,8 @@
+C:\__Projects\Status_Tracker\bin\Release\Status_Tracker.exe.config
+C:\__Projects\Status_Tracker\bin\Release\Status_Tracker.exe
+C:\__Projects\Status_Tracker\bin\Release\Status_Tracker.pdb
+C:\__Projects\Status_Tracker\obj\Release\Status_Tracker.csproj.AssemblyReference.cache
+C:\__Projects\Status_Tracker\obj\Release\Status_Tracker.csproj.SuggestedBindingRedirects.cache
+C:\__Projects\Status_Tracker\obj\Release\Status_Tracker.csproj.CoreCompileInputs.cache
+C:\__Projects\Status_Tracker\obj\Release\Status_Tracker.exe
+C:\__Projects\Status_Tracker\obj\Release\Status_Tracker.pdb

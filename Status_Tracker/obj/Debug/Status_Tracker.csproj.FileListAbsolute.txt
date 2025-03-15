@@ -1,0 +1,16 @@
+C:\__Projects\Status_Tracker\obj\Debug\Status_Tracker.csproj.AssemblyReference.cache
+C:\__Projects\Status_Tracker\obj\Debug\Status_Tracker.csproj.SuggestedBindingRedirects.cache
+C:\__Projects\Status_Tracker\obj\Debug\Status_Tracker.csproj.CoreCompileInputs.cache
+C:\__Projects\Status_Tracker\bin\Debug\Status_Tracker.exe.config
+C:\__Projects\Status_Tracker\bin\Debug\Status_Tracker.exe
+C:\__Projects\Status_Tracker\bin\Debug\Status_Tracker.pdb
+C:\__Projects\Status_Tracker\obj\Debug\Status_Tracker.exe
+C:\__Projects\Status_Tracker\obj\Debug\Status_Tracker.pdb
+C:\__Projects\__bk\Status_Tracker\bin\Debug\Status_Tracker.exe.config
+C:\__Projects\__bk\Status_Tracker\bin\Debug\Status_Tracker.exe
+C:\__Projects\__bk\Status_Tracker\bin\Debug\Status_Tracker.pdb
+C:\__Projects\__bk\Status_Tracker\obj\Debug\Status_Tracker.csproj.AssemblyReference.cache
+C:\__Projects\__bk\Status_Tracker\obj\Debug\Status_Tracker.csproj.SuggestedBindingRedirects.cache
+C:\__Projects\__bk\Status_Tracker\obj\Debug\Status_Tracker.csproj.CoreCompileInputs.cache
+C:\__Projects\__bk\Status_Tracker\obj\Debug\Status_Tracker.exe
+C:\__Projects\__bk\Status_Tracker\obj\Debug\Status_Tracker.pdb
