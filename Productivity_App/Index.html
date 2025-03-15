@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="css/app.css" />
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+</head>
+<body>
+    <div class="app_title">PRODUCTIVITY APP</div>
+
+    <div class="cmd_bar">
+        <span onclick="show_task_form(0)">Add Task</span>
+        <span onclick="show_event_form(0)">Add Event</span>
+        <span>|</span>
+        <span>View:</span>
+        <span onclick="toggle_view(0)">All</span>
+        <span onclick="toggle_view(1)">My Day</span>
+    </div>
+    <br />
+
+    <div class="task_header">TASKS:</div>
+    <div id="_task_list"></div>
+    <br />
+    <div class="event_header">EVENTS:</div>
+    <div id="_event_list"></div>
+
+    <!--task-->
+    <div class="task_form" id="_task_form" style="display:none">
+        <div class="task_title">Task Info</div>
+        <table>
+            <tr style="display:none"><td>Id</td><td><input type="text" id="_task_id" /></td></tr>
+            <tr><td>Description</td><td><input type="text" id="_task_description" /></td></tr>
+            <tr><td>Name</td><td><input type="text" id="_task_name"/></td></tr>
+            <tr><td>Category</td><td><input type="text" id="_task_category"/></td></tr>
+            <tr><td>Date</td><td><input type="text" id="_task_date"/></td></tr>
+            <tr><td>Color</td><td><input type="text" id="_task_color"/></td></tr>
+            <tr><td>Completion Status</td><td><input type="checkbox" id="_task_status"/></td></tr>
+        </table>
+        <div class="task_form_cmd">
+            <span onclick="submit_task()">Submit</span>
+            <span onclick="close_task_form()">Cancel</span>
+        </div>
+    </div>
+
+    <!--event-->
+    <div class="event_form" id="_event_form" style="display:none">
+        <div class="event_title">Event Info</div>
+        <table>
+            <tr style="display:none"><td>Id</td><td><input type="text" id="_event_id" /></td></tr>
+            <tr><td>Description</td><td><input type="text" id="_event_description" /></td></tr>
+            <tr><td>Category</td><td><input type="text" id="_event_category" /></td></tr>
+            <tr><td>Start_Date</td><td><input type="text" id="_event_start_date" /></td></tr>
+            <tr><td>End_Date</td><td><input type="text" id="_event_end_date" /></td></tr>
+        </table>
+        <div class="event_form_cmd">
+            <span onclick="submit_event()">Submit</span>
+            <span onclick="close_event_form()">Cancel</span>
+        </div>
+    </div>
+</body>
+</html>
+
+<script>
+    init();
+</script>

@@ -1,0 +1,139 @@
+﻿body {
+    font-family: 'Segoe UI';
+    font-size: 13px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cmd_bar {
+    padding: 5px;
+    border: 1px solid #000000;
+}
+
+.cmd_bar span {
+    padding: 5px;
+    border: 1px solid #000000;
+    display: inline-block;
+}
+
+.app_title {
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    padding: 20px 20px 20px 0px;
+    font-weight: bold;
+}
+
+.task_header {
+    font-weight: bold;
+}
+
+.task_item {
+    padding: 10px;
+    box-shadow: 1px 1px 7px #222;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.task_menu {
+    display: inline-block;
+    vertical-align: top
+}
+
+.task_menu span {
+    display: inline-block;
+    padding: 5px;
+}
+
+.task_title {
+    font-size: 1.67em;
+    color: #505050;
+    border-bottom: 1px solid #cccccc;
+    padding: 10px 0px 10px 0px;
+}
+
+.task_form {
+    top: 200px;
+    left: 300px;
+    position: absolute;
+    display: inline-block;
+    padding: 0px 20px 20px 20px;
+    box-shadow: 1px 1px 7px #222;
+    border-radius: 5px;
+    font-family: 'Segoe UI';
+    font-size: 13px;
+    z-index: 10;
+    background-color: #ffffff;
+}
+
+.task_form_cmd {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.task_form_cmd span {
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    margin-left: 10px;
+    border: 1px solid #000000;
+}
+
+.event_header {
+    font-weight: bold;
+}
+
+.event_item {
+    padding: 10px;
+    box-shadow: 1px 1px 7px #222;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.event_menu {
+    display: inline-block;
+    vertical-align: top
+}
+
+.event_menu span {
+    display: inline-block;
+    padding: 5px;
+}
+
+.event_title {
+    font-size: 1.67em;
+    color: #505050;
+    border-bottom: 1px solid #cccccc;
+    padding: 10px 15px 10px 15px;
+}
+
+.event_title {
+    font-size: 1.67em;
+    color: #505050;
+    border-bottom: 1px solid #cccccc;
+    padding: 10px 0px 10px 0px;
+}
+
+.event_form {
+    top: 200px;
+    left: 300px;
+    position: absolute;
+    display: inline-block;
+    padding: 0px 20px 20px 20px;
+    box-shadow: 1px 1px 7px #222;
+    border-radius: 5px;
+    font-family: 'Segoe UI';
+    font-size: 13px;
+    z-index: 10;
+    background-color: #ffffff;
+}
+
+.event_form_cmd {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.event_form_cmd span {
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    margin-left: 10px;
+    border: 1px solid #000000;
+}
